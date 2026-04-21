@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=120&section=header&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=120&section=header&animation=fadeIn" />
 
 ## Hi there 👋
 
