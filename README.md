@@ -1,37 +1,100 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=120&section=header&animation=fadeIn" />
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Gahyun%20Park&fontSize=55&fontAlignY=35&desc=Embedded%20SW%20%7C%20Edge%20AI%20%7C%20Computer%20Vision&descAlignY=58&animation=fadeIn)
 
-# 박가현 | Gahyun Park
+<div align="center">
+
+### 👋 박가현 | Gahyun Park
 
 **Electronic Engineering · Embedded SW · Edge AI / Computer Vision**
 
-## Profile
+실제 하드웨어에서 동작하는 임베디드 SW와 Edge AI 시스템에 관심이 있습니다.  
+알고리즘 구현에 그치지 않고 **배포 · 통합 · 검증**까지 이어지는 개발을 지향합니다.
 
-| 구분 | 내용 |
-|---|---|
-| 🎓 Education | 국민대학교 전자공학부 전자시스템공학전공 졸업 |
-| 📚 Minor | 양자보안차세대통신전공 부전공 이수 |
-| 📝 GPA | **3.66 / 4.5** |
-| 🚗 Training | 현대오토에버 모빌리티 SW 스쿨 **3기 / 임베디드 6기 수료** |
-| 🔬 Research | 국민대학교 AI 연구실 학부연구생 활동 |
-| 🌍 Experience | 보츠와나 약 9년 거주 및 현지 초·중·고 교육과정 이수 |
+</div>
 
-## Technical Interests
+---
 
-- **Embedded SW** — C/C++, MCU, RTOS, Vehicle Communication
-- **Computer Vision** — OpenCV, YOLO, 2D/3D Vision
-- **Edge AI** — PyTorch, TensorRT, NVIDIA Jetson
-- **Control & Simulation** — MATLAB/Simulink, Embedded Control
-- **Development Environment** — Linux, Git
+## 🎓 Education & Training
 
-## Selected Experience
+- **Kookmin University** | 국민대학교  
+  - B.S. in **Electronic Engineering — Electronic Systems**  
+  - Minor in **Quantum Security & Next-Generation Communications**  
+  - GPA **3.66 / 4.5**
 
-- YOLOv8 모델 **TensorRT 변환 및 NVIDIA Jetson Orin NX 배포**
-- 3D 객체인식 결과의 **BEV 좌표 변환 및 실시간 처리 파이프라인 최적화**
-- MATLAB/Simulink 기반 **MPC 적응형 순항제어기 설계 및 AURIX MCU 검증**
-- AURIX 기반 **Vehicle Personalization System / CAN FD / FSM / Multi-rate Scheduling**
-- 차량용 **FOTA 시스템 개발 — DoIP, UDS, MQTT, ECDSA, A/B Bank & Rollback**
+- **Hyundai AutoEver Mobility SW School**  
+  - **3rd Mobility SW School / 6th Embedded Track**  
+  - C/C++, MCU, RTOS, Vehicle Communication, Requirements & SW Verification
 
-## Focus
+---
 
-실제 하드웨어에서 동작하는 **Embedded SW와 Edge AI 시스템**에 관심이 있습니다.  
-알고리즘을 구현하는 데서 끝내지 않고, **실제 장비에 배포하고 검증하는 과정**을 중심으로 경험을 쌓아가고 있습니다.
+## 🔬 Experience
+
+- **Undergraduate Researcher | AI Lab, Kookmin University**  
+  - YOLOv8 → TensorRT optimization  
+  - NVIDIA Jetson Orin NX deployment  
+  - OpenCV / PyTorch / Linux based Edge AI development
+
+- **Embedded & Vehicle SW Projects**  
+  - AURIX MCU, CAN FD, FSM, Multi-rate Scheduling  
+  - MPC-based ACC controller design with MATLAB/Simulink  
+  - FOTA with DoIP, UDS, MQTT, ECDSA, A/B Bank & Rollback
+
+- **3D Vision / Autonomous Driving Infrastructure**  
+  - 3D object recognition and BEV coordinate transformation  
+  - UDP communication and multi-threaded real-time pipeline optimization
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+</p>
+
+### Embedded / Vehicle SW
+<p>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AURIX-005B95?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RTOS-00979D?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CAN%20FD-00599C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/UDS-555555?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DoIP-555555?style=flat-square"/>
+</p>
+
+### AI / Computer Vision
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+</p>
+
+### Tools / Environment
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Simulink-F3A41D?style=flat-square"/>
+</p>
+
+---
+
+## 🎯 Interests
+
+- Embedded Software & Firmware
+- Edge AI / Computer Vision
+- Real-time System Optimization
+- Autonomous Driving & Control
+- HW–SW Integration and Verification
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gahyunparkk&show_icons=true&hide_border=true)
+
+</div>
