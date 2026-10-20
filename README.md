@@ -109,8 +109,8 @@
   MATLAB/Simulink · PreScan · Embedded Coder · Infineon AURIX · Ethernet
 
 ### Computer Vision
-- **3D Object Recognition Autonomous Driving Infrastructure**  
-  3D Object Recognition · BEV · UDP · Multi-threading · Real-time Optimization
+- [**Infrastructure 3D Perception — 자율주행 인프라 구축**](https://github.com/gahyunparkk/infrastructure-3d-perception)  
+  KIT 2.5D 객체 인식 연동 · SORT 객체 추적 · 좌표 변환 / BEV 시각화 · 실시간 지연시간 분석 · UDP–CARLA 디지털 트윈
 
 - [**Classical Computer Vision Projects**](https://github.com/gahyunparkk/Computer-Vision-Project)  
   FFT-based Image Filtering · Feature Matching · Bag-of-Visual-Words · CNN
