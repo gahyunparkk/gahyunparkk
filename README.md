@@ -20,8 +20,8 @@
 | 🚗 **Training** | 현대오토에버 모빌리티 SW 스쿨 3기 / 임베디드 6기 수료 |
 | 🔬 **Research** | 국민대학교 AI 연구실 학부연구생 |
 | 💼 **Experience** | 주식회사 리노빗 펌웨어 개발 연구원 |
-| 🌍 **Global Experience** | 보츠와나 약 9년 거주 및 현지 초·중·고 교육과정 이수 |
-| 🗣️ **Language** | Korean (Native), English (OPIc IH) |
+| 🌍 **Global Experience** | 보츠와나 약 9년 거주 |
+| 🗣️ **Language** | Korean (Native), English (Proficient) |
 
 ---
 
